@@ -1,0 +1,14 @@
+body{
+    background-color: green;
+    color:white;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    list-style: none;
+    color: white;
+}
+nav ul li a{
+    color: white;
+}
